@@ -292,7 +292,7 @@
         }
     ],
     "men_shoes":[
-        [
+        
             {
                 "id":2,
                 "images":[
@@ -382,7 +382,6 @@
                 "price":"130",
                 "PopularProd":false
             }
-        ]
     ],
     "women_shoes":[
         {
